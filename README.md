@@ -1,3 +1,3 @@
 # testrepo
 
-yuh just testing
+This is where I will be adding all my Javascript exercises
